@@ -1,0 +1,6 @@
+
+    COMPANY POLICY 2026:
+    1. Remote work is allowed 3 days a week (Tuesday, Wednesday, Thursday).
+    2. The annual budget for learning and development is $1,500 per employee.
+    3. Migrating to AWS is considered high risk due to legacy database dependencies, which lack active maintenance.
+    
